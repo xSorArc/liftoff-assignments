@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-A lifestyle app. How is your day? What did you do? How do you feel? Lets track that!
+A lifestyle app. How is your day? What did you do? How do you feel? Lets track that! Users will find this app useful to help share their daily activities with the world! The idea came from our lovely teammate Karina. She pitched her idea, and we as a team added lots of insightful input. The end result is the next best thing since MAANG (Formerly FAANG)
 ### Features
 User Login - Making an account is vital to track what users do on that website
 User Day & Night Tracking -  How did you sleep, how was your breakfast? Log and rate each of those activities
@@ -23,6 +23,9 @@ MySQL
 Spring Boot
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Work as a team to create an MVP we can all agree on
+Be able to track time of day for events
+Be able to let the user add images
+Milestone tracking
 ### Project Tracker
 https://trello.com/b/bD2tG0hl/liftoff
