@@ -23,9 +23,6 @@ MySQL
 Spring Boot
 
 ### What I'll Have to Learn
-Work as a team to create an MVP we can all agree on
-Be able to track time of day for events
-Be able to let the user add images
-Milestone tracking
+Work as a team to create an MVP we can all agree on. Be able to track time of day for events. Be able to let the user add images. Milestone tracking
 ### Project Tracker
 https://trello.com/b/bD2tG0hl/liftoff
